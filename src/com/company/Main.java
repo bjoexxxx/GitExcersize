@@ -8,11 +8,11 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Main action = new Main();
-        action.Greet();
+        action.Goddag();
         action.askAboutAge();
         System.out.println("it works!");
     }
-    public void Greet(){
+    public void Goddag(){
         System.out.println("intast navn");
         String navn = keyboard.nextLine();
         System.out.println(navn);
