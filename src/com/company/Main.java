@@ -10,6 +10,7 @@ public class Main {
         Main action = new Main();
         action.Goddag();
         action.askAboutAge();
+        System.out.println("ny linje 1");
         System.out.println("it works!");
     }
     public void Goddag(){
