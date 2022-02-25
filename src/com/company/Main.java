@@ -11,6 +11,7 @@ public class Main {
         action.Goddag();
         action.askAboutAge();
         System.out.println("ny linje 1");
+        System.out.println("ny linje 2");
         System.out.println("it works!");
     }
     public void Goddag(){
